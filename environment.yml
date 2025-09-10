@@ -1,0 +1,24 @@
+name: xarray-climate
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - jupyterlab
+  - ipykernel
+  - xarray
+  - dask
+  - zarr
+  - s3fs
+  - fsspec
+  - numpy
+  - pandas
+  - matplotlib
+  - h5netcdf
+  - cartopy
+  - pyproj
+  - shapely
+  - scipy
+  - intake
+  - netcdf4
+  - cftime
+  - gcsfs
