@@ -186,7 +186,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright [2025] [Joseph Bahret]
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -199,3 +199,19 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+## Additional Licensing and Citation
+
+This code is licensed under the **MIT License**.
+
+A copy of the MIT License can be found in the repository or viewed at: https://opensource.org/licenses/MIT
+
+***
+
+All data used in this script is from the Copernicus Climate Change Service (C3S) and is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
+
+To view a copy of this license, visit: https://creativecommons.org/licenses/by/4.0/
+
+***
+
+**Citation:** Copernicus Climate Change Service (2022): Daily total precipitation from 1950 to present derived from reanalysis. Copernicus Climate Change Service (C3S) Climate Data Store (CDS). **DOI: 10.24381/cds.e9c9c792**
